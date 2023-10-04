@@ -1,0 +1,72 @@
+Claro! Aqui está uma lista de 100 exercícios de JavaScript para praticar suas habilidades de programação:
+
+**Nível Iniciante:**
+
+1. Calcular a soma de dois números.
+2. Calcular o produto de dois números.
+3. Verificar se um número é par ou ímpar.
+4. Converter graus Celsius para Fahrenheit.
+5. Calcular o fatorial de um número.
+6. Verificar se um número é primo.
+7. Encontrar o maior número em um array.
+8. Encontrar o menor número em um array.
+9. Verificar se uma string é um palíndromo.
+10. Trocar o conteúdo de duas variáveis sem usar uma terceira variável.
+11. Calcular a média de um array de números.
+12. Imprimir os números pares de 1 a 100.
+13. Imprimir os números ímpares de 1 a 100.
+14. Gerar os primeiros `n` números da sequência de Fibonacci.
+15. Encontrar a quantidade de dígitos em um número.
+16. Contar o número de vogais em uma string.
+17. Verificar se um número é positivo, negativo ou zero.
+18. Calcular a soma dos dígitos de um número.
+19. Encontrar o segundo maior número em um array.
+20. Verificar se uma string é um anagrama de outra string.
+
+**Nível Intermediário:**
+
+21. Ordenar um array em ordem crescente.
+22. Ordenar um array em ordem decrescente.
+23. Verificar se um número é perfeito (a soma de seus divisores é igual ao próprio número).
+24. Remover elementos duplicados de um array.
+25. Encontrar o número de ocorrências de um elemento em um array.
+26. Inverter uma string.
+27. Calcular o máximo divisor comum (MDC) de dois números.
+28. Calcular o mínimo múltiplo comum (MMC) de dois números.
+29. Encontrar os números primos em um intervalo específico.
+30. Verificar se um ano é bissexto.
+31. Calcular a soma dos primeiros `n` números naturais.
+32. Encontrar a raiz quadrada de um número usando o método de Newton.
+33. Calcular a potência de um número.
+34. Encontrar o elemento mais frequente em um array.
+35. Verificar se um número é um quadrado perfeito.
+36. Calcular a série harmônica de um número.
+37. Encontrar a sequência de Collatz de um número.
+38. Calcular a área de diferentes formas geométricas.
+39. Calcular a mediana de um array de números.
+40. Validar um número de cartão de crédito usando o algoritmo de Luhn.
+
+**Nível Avançado:**
+
+41. Implementar um algoritmo de ordenação, como o QuickSort ou o MergeSort.
+42. Implementar uma estrutura de dados de pilha.
+43. Implementar uma estrutura de dados de fila.
+44. Implementar uma árvore binária de busca.
+45. Implementar um algoritmo de busca binária.
+46. Encontrar o máximo subarray em um array.
+47. Verificar se um número é um número de Armstrong.
+48. Encontrar a combinação e permutação de elementos em um array.
+49. Implementar um algoritmo de criptografia, como o Cifra de César.
+50. Implementar um algoritmo de validação de senha.
+51. Implementar um jogo de adivinhação.
+52. Implementar um jogo da forca.
+53. Implementar um jogo de Sudoku.
+54. Implementar um conversor de moeda.
+55. Criar uma calculadora com interface gráfica.
+56. Implementar um algoritmo de pesquisa em texto, como o Algoritmo de Boyer-Moore.
+57. Implementar um algoritmo de detecção de colisão para jogos.
+58. Implementar um algoritmo de busca em grafos, como o Algoritmo de Dijkstra.
+59. Implementar um algoritmo de ordenação topológica.
+60. Criar um aplicativo de lista de tarefas.
+
+Lembre-se de que a prática é essencial para melhorar suas habilidades de programação. À medida que você enfrenta esses desafios, você desenvolverá uma compreensão mais profunda de JavaScript e da lógica de programação.
