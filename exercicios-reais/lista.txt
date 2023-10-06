@@ -1,0 +1,31 @@
+01-Calculadora: Crie uma calculadora que permita ao usuário realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
+
+02-Validação de Formulário: Crie um formulário de registro com campos de entrada e valide os dados inseridos pelo usuário, garantindo que os campos obrigatórios estejam preenchidos e que os formatos corretos sejam usados para endereço de email e senha.
+
+03-Lista de Tarefas: Crie uma aplicação de lista de tarefas que permita ao usuário adicionar, remover e marcar tarefas como concluídas.
+
+04-Relógio Digital: Construa um relógio digital que exiba a hora atual e atualize em tempo real.
+
+05-Conversor de Moedas: Crie um conversor de moedas que permita ao usuário converter valores de uma moeda para outra com base nas taxas de câmbio atuais.
+
+06-Jogo da Velha (Tic-Tac-Toe): Implemente o clássico jogo da velha em JavaScript, onde dois jogadores podem competir um contra o outro.
+
+07-Previsão do Tempo: Desenvolva uma aplicação que permita ao usuário verificar a previsão do tempo para uma localização específica usando uma API de previsão do tempo.
+
+08-Sistema de Autenticação: Crie um sistema de autenticação que permita aos usuários fazer login, registrar-se e fazer logout. Use cookies ou tokens JWT para gerenciar a autenticação.
+
+9-Galeria de Imagens: Crie uma galeria de imagens que permita ao usuário visualizar e navegar por várias imagens em um formato de carrossel.
+
+10-Rede Social Simples: Construa uma pequena rede social onde os usuários possam criar postagens, seguir outros usuários e curtir postagens.
+
+11-Mapa Interativo: Crie um mapa interativo que permita aos usuários pesquisar locais, marcar pontos de interesse e obter informações sobre esses locais ao clicar neles.
+
+12-Contador de Palavras: Desenvolva um contador de palavras que conte quantas palavras estão em um texto inserido pelo usuário.
+
+13-Gerador de Senhas: Crie um gerador de senhas que permita ao usuário escolher o comprimento e os critérios de complexidade para gerar senhas seguras.
+
+14-Sistema de Reservas: Implemente um sistema de reservas para um hotel, restaurante ou outro negócio que permita aos usuários selecionar datas e horários disponíveis.
+
+15-Calculadora de Gorjeta: Crie uma calculadora de gorjeta que permita ao usuário calcular a gorjeta com base no valor da conta e na porcentagem desejada.
+
+Esses exercícios são baseados em casos reais e abrangem uma variedade de tópicos em JavaScript, desde manipulação de DOM até comunicação com APIs. Eles podem ajudar a aprimorar suas habilidades de programação e fornecer experiência prática em desenvolvimento web.
